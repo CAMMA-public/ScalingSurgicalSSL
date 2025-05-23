@@ -7,7 +7,7 @@
 
 ## **Jumpstarting Surgical Computer Vision**
 
-_Deepak Alapatt, Aditya Murali, Vinkle Srivastav, Pietro Mascagni, AI4SafeChole Consortium, Nicolas Padoy_, **MICCAI, 2024**
+_Deepak Alapatt, Aditya Murali, [Vinkle Srivastav](https://vinkle.github.io/), Pietro Mascagni, AI4SafeChole Consortium, Nicolas Padoy_, **MICCAI, 2024**
 
 [![arXiv](https://img.shields.io/badge/arxiv-2207.00449-red)](https://arxiv.org/abs/2312.05968)
 
